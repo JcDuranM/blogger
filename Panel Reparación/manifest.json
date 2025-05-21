@@ -1,18 +1,19 @@
 {
-  "name": "Panel JcDuranM",
-  "short_name": "PanelJcDuranM",
+  "short_name": "Panel Reparación",
+  "name": "Panel Reparación de Celulares",
+  "description": "Una aplicación para gestionar la reparación de celulares.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#1a73e8",
+  "background_color": "#2196f3",
+  "theme_color": "#2196f3",
   "icons": [
     {
-      "src": "https://panel.jcduranm.com/icon-192.png",
+      "src": "https://cdn.jsdelivr.net/gh/JcDuranM/blogger@main/Panel%20Reparaci%C3%B3n/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://panel.jcduranm.com/icon-512.png",
+      "src": "https://cdn.jsdelivr.net/gh/JcDuranM/blogger@main/Panel%20Reparaci%C3%B3n/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
