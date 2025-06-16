@@ -1,6 +1,6 @@
 {
-  "name": "El Elotero",
-  "short_name": "El Elotero",
+ "name": "<data:blog.title/>",
+  "short_name": "<data:blog.title/>",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fafafa",
