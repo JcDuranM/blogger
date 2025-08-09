@@ -1,8 +1,9 @@
 const CACHE_NAME = 'reserva-alberca-v1';
 const urlsToCache = [
   '/',
-  'https://fonts.googleapis.com/css?family=Segoe+UI',
-  '/' // Cambia a tu URL real si quieres
+  'https://fonts.googleapis.com/css?family=Segoe+UI'
+  // Puedes añadir la URL completa de tu blog si quieres cachearla, por ejemplo:
+  // 'https://albarca-reymar.blogspot.com/'
 ];
 
 self.addEventListener('install', event => {
