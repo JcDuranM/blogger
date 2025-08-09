@@ -1,4 +1,4 @@
-const CACHE_NAME = 'reserva-alberca-v1';
+const CACHE_NAME = 'yuridia-lashes-v1';
 const urlsToCache = [
   '/',
   'https://fonts.googleapis.com/css?family=Segoe+UI'
